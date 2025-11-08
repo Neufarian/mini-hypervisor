@@ -6,7 +6,7 @@
 - Safe file handling for shared guest files
 
 ## Tech Stack
-- **Languages:** C, C++
+- **Languages:** C
 - **Virtualization:** Kernel-based Virtual Machine (KVM)
 - **Concurrency:** POSIX Threads (pthreads)
-- **Tools:** GCC, GDB, Make
+- **Tools:** GCC, Make
